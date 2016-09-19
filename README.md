@@ -88,6 +88,7 @@ or you could add particular fonts for each style:
               ...
               VFontManager.setDefaultAppFont(<font-name>, VFontManager.STYLE_NORMAL);
               VFontManager.setDefaultAppFont(<font-name>, VFontManager.STYLE_BOLD);
+              VFontManager.setDefaultAppFont(<font-name>, VFontManager.STYLE_ITALIC);
               //example
               //VFontManager.setDefaultAppFont("avenir_italic.ttf", VFontManager.STYLE_ITALIC);
               ...
