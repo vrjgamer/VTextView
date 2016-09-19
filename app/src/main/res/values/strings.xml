@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VTextViewDemo</string>
+    <string name="demo_text">Hello!, How are you? 1234</string>
+</resources>
